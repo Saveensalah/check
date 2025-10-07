@@ -1,0 +1,154 @@
+@media screen and (max-width: 1599px) {
+.group{
+  width: 38rem;
+  transform: translateX(-10%) translateY(-9%);
+}
+
+}
+@media screen and (max-width: 1449px) {
+.group{
+  width: 35rem;
+  transform: translateX(-10%) translateY(0%);
+}
+}
+
+@media screen and (max-width: 1399px) {
+body,
+html {
+  font-size: 17px;
+}
+.group{
+  width: 30rem;
+  transform: translateX(-15%) translateY(14%);
+}
+}
+
+@media screen and (max-width: 1299px) {
+.group{
+  width: 30rem;
+  transform: translateX(-15%) translateY(14%);
+}
+}
+
+@media screen and (max-width: 1199px) {
+
+.group{
+  width: 31rem;
+  transform: translateX(-15%) translateY(11%);
+}
+}
+@media screen and (max-width: 991px) {
+.section1 .padding-between{
+padding-block: 4rem;
+}
+.section1 h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+.section2 h1{
+  font-size: 2.5rem;
+}
+.section2 h2{
+  font-size: 1.8rem;
+}
+.iconboxes2 .p1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.iconboxes2 .p2 {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.banner-image{
+      transform: translateX(-3%) translateY(0%); /* Shift image if needed */
+      width: 34rem;
+}
+.girl-bg{
+    width: 25rem;
+}
+.group{
+  width: 26rem;
+  transform: translateX(-15%) translateY(33%);
+}
+.section5 {
+    padding-block: 3rem;
+}
+}
+@media screen and (max-width: 767px) {
+
+  h1{
+    font-size: 2.2rem;
+  }
+  h5{
+    font-size: 1.8rem;
+  }
+
+  .icon-box h5 {
+    font-size: 1.3rem;
+}
+.iconboxes2 .p1 {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.iconboxes2 .p2 {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.banner-image{
+  width: 22rem;
+  transform: translateX(-9%) translateY(4%);
+  }
+.group{
+  width: 28rem;
+  transform: translateX(5%) translateY(0%);
+}
+.box-container{
+  height: 42rem;
+}
+.card-title{
+  font-size:1.3rem ;
+}
+.s-h5{
+  font-size: 1.3rem;
+}
+.button-stick{
+    position: absolute;
+    bottom: 1.5rem;
+    right: 1rem;
+    z-index: 1000;
+}
+}
+@media screen and (max-width: 575px) {
+
+ .icon-box h5 {
+    font-size: 1.3rem;
+}
+.group{
+  width: 26rem;
+  transform: translateX(-7%) translateY(0%);
+
+}
+.box-container{
+  height: 38rem;
+}
+.girl-bg{
+  width: 16rem;
+}
+}
+@media screen and (max-width: 470px) {
+
+.group{
+  width: 24rem;
+  transform: translateX(3%) translateY(0%);
+}
+.box-container{
+  height: 38rem;
+}
+}
+@media screen and (max-width: 420px) {
+
+.group{
+  width: 20rem;
+}
+
+}
